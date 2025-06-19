@@ -10,7 +10,7 @@ Exemplo 1:
 Digite a largura do terreno: 10.0
 Digite o comprimento do terreno: 30.0
 Digite o valor do metro quadrado: 200.00
-Area do terreno = 300.00
+Area do terreno = 300.0
 
 Preco do terreno = 60000.00
 
